@@ -1,1 +1,0 @@
-# Welcome to Training 4 Developers, Inc.
