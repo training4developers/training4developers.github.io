@@ -1,0 +1,47 @@
+---
+---
+
+@import "site";
+
+img#software-developers {
+  float: right;
+  width: 350px;
+  height: 234px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+img#ericwgreene {
+  float: left;
+  width: 200px;
+  height: 200px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+blockquote {
+  margin-bottom:5px;
+}
+
+blockquote + i {
+  margin-left:40px;
+}
+
+section#student-testimonials > div {
+  margin-bottom: 20px;
+}
+
+header ul {
+  list-style-type: none;
+  border:0;
+  margin:0;
+  padding:0;
+
+  li {
+    border:0;
+    margin:0;
+    padding:0;
+    list-style-image: none;
+    display: inline-block;
+  }
+}
